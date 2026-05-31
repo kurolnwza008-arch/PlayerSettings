@@ -1,0 +1,12 @@
+name: PlayerSettings
+version: 1.0.0
+main: com.server.settings.PlayerSettings
+api-version: 1.21
+description: เมนูตั้งค่าผู้เล่น สไตล์ DonutSMP
+author: Server
+
+commands:
+  ตั้งค่า:
+    description: เปิดเมนูตั้งค่า
+    usage: /ตั้งค่า
+    aliases: [settings, setting]
